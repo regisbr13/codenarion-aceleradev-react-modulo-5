@@ -17,8 +17,8 @@ class Filters extends React.Component {
             <input
               type="text"
               className="filters__search__input"
-			  placeholder="Pesquisar"
-			  onChange={e => this.props.search(e.target.value)}
+              placeholder="Pesquisar"
+              onChange={(e) => this.props.search(e.target.value)}
             />
 
             <button className="filters__search__icon">

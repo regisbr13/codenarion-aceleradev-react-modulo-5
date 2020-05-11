@@ -8,7 +8,7 @@ import Filter from "./components/Filters";
 class App extends React.Component {
   state = {
     contacts: [],
-    constactsFound: [],
+    constactsFound: []
   };
 
   getContactsList = async () => {
@@ -47,14 +47,14 @@ class App extends React.Component {
 
   render() {
     const contacts = this.state.contacts;
-    const contactsFound = this.state.contactsFound;
-    const search = contactsFound && contactsFound.length > 0;
+    const constactsFound = this.state.constactsFound;
+    const search =  constactsFound.length > 0;
 
     return (
       <React.Fragment>
         <TopBar />
         <Filter sort={this.sortContacts} search={this.searchContacts} />
-        <Contacts data={contacts} />
+        <Contacts data={search ? constactsFound : contacts} />
       </React.Fragment>
     );
   }

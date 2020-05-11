@@ -2,6 +2,7 @@
   "name": "contacts_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://regisbr13.github.io/codenarion-aceleradev-react-modulo-5/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -19,7 +20,7 @@
     "eject": "react-scripts eject",
     "submit": "react-scripts test src/__tests__/submit.test.js --reporters=default --reporters=jest-junit",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
