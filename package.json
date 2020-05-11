@@ -17,7 +17,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "submit": "react-scripts test src/__tests__/submit.test.js --reporters=default --reporters=jest-junit"
+    "submit": "react-scripts test src/__tests__/submit.test.js --reporters=default --reporters=jest-junit",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
     "extends": "react-app"
