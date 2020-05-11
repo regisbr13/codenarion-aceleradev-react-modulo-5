@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codenarion-aceleradev-react-modulo-5/static/css/main.eec970d9.chunk.css",
+    "main.js": "/codenarion-aceleradev-react-modulo-5/static/js/main.945f37ef.chunk.js",
+    "main.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/main.945f37ef.chunk.js.map",
+    "runtime-main.js": "/codenarion-aceleradev-react-modulo-5/static/js/runtime-main.324c98bd.js",
+    "runtime-main.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/runtime-main.324c98bd.js.map",
+    "static/js/2.a18891e2.chunk.js": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js",
+    "static/js/2.a18891e2.chunk.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js.map",
+    "index.html": "/codenarion-aceleradev-react-modulo-5/index.html",
+    "precache-manifest.3f2df334bb3fc14f568017bf5dbe72b3.js": "/codenarion-aceleradev-react-modulo-5/precache-manifest.3f2df334bb3fc14f568017bf5dbe72b3.js",
+    "service-worker.js": "/codenarion-aceleradev-react-modulo-5/service-worker.js",
+    "static/css/main.eec970d9.chunk.css.map": "/codenarion-aceleradev-react-modulo-5/static/css/main.eec970d9.chunk.css.map",
+    "static/js/2.a18891e2.chunk.js.LICENSE.txt": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js.LICENSE.txt",
+    "static/media/logo.82a7c062.svg": "/codenarion-aceleradev-react-modulo-5/static/media/logo.82a7c062.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324c98bd.js",
+    "static/js/2.a18891e2.chunk.js",
+    "static/css/main.eec970d9.chunk.css",
+    "static/js/main.945f37ef.chunk.js"
+  ]
+}
