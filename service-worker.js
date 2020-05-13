@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/codenarion-aceleradev-react-modulo-5/precache-manifest.210f5b3c8e17cecb437ba513e830992a.js"
+  "/codenarion-aceleradev-react-modulo-5/precache-manifest.1fd306c0ce9e17681f44c5b07ead2b34.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/codenarion-aceleradev-react-modulo-5/static/css/main.eec970d9.chunk.css",
-    "main.js": "/codenarion-aceleradev-react-modulo-5/static/js/main.5e2dd15b.chunk.js",
-    "main.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/main.5e2dd15b.chunk.js.map",
+    "main.js": "/codenarion-aceleradev-react-modulo-5/static/js/main.f3bad9ca.chunk.js",
+    "main.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/main.f3bad9ca.chunk.js.map",
     "runtime-main.js": "/codenarion-aceleradev-react-modulo-5/static/js/runtime-main.324c98bd.js",
     "runtime-main.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/runtime-main.324c98bd.js.map",
-    "static/js/2.a18891e2.chunk.js": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js",
-    "static/js/2.a18891e2.chunk.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js.map",
+    "static/js/2.75698720.chunk.js": "/codenarion-aceleradev-react-modulo-5/static/js/2.75698720.chunk.js",
+    "static/js/2.75698720.chunk.js.map": "/codenarion-aceleradev-react-modulo-5/static/js/2.75698720.chunk.js.map",
     "index.html": "/codenarion-aceleradev-react-modulo-5/index.html",
-    "precache-manifest.210f5b3c8e17cecb437ba513e830992a.js": "/codenarion-aceleradev-react-modulo-5/precache-manifest.210f5b3c8e17cecb437ba513e830992a.js",
+    "precache-manifest.1fd306c0ce9e17681f44c5b07ead2b34.js": "/codenarion-aceleradev-react-modulo-5/precache-manifest.1fd306c0ce9e17681f44c5b07ead2b34.js",
     "service-worker.js": "/codenarion-aceleradev-react-modulo-5/service-worker.js",
     "static/css/main.eec970d9.chunk.css.map": "/codenarion-aceleradev-react-modulo-5/static/css/main.eec970d9.chunk.css.map",
-    "static/js/2.a18891e2.chunk.js.LICENSE.txt": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js.LICENSE.txt",
+    "static/js/2.75698720.chunk.js.LICENSE.txt": "/codenarion-aceleradev-react-modulo-5/static/js/2.75698720.chunk.js.LICENSE.txt",
     "static/media/logo.82a7c062.svg": "/codenarion-aceleradev-react-modulo-5/static/media/logo.82a7c062.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.324c98bd.js",
-    "static/js/2.a18891e2.chunk.js",
+    "static/js/2.75698720.chunk.js",
     "static/css/main.eec970d9.chunk.css",
-    "static/js/main.5e2dd15b.chunk.js"
+    "static/js/main.f3bad9ca.chunk.js"
   ]
 }

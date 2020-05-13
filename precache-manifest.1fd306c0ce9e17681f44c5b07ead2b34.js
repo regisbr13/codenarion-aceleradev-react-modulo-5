@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ba1e02a0aafe9f78f162fa6e5f2da93",
+    "revision": "061980fbfb9642a53558dd986baa4f16",
     "url": "/codenarion-aceleradev-react-modulo-5/index.html"
   },
   {
-    "revision": "bd2e2817b0881410d8a2",
+    "revision": "0618177dead52bb64742",
     "url": "/codenarion-aceleradev-react-modulo-5/static/css/main.eec970d9.chunk.css"
   },
   {
-    "revision": "5399423f90e25b88e69d",
-    "url": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js"
+    "revision": "afcfa0b306cbd2f8aac8",
+    "url": "/codenarion-aceleradev-react-modulo-5/static/js/2.75698720.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/codenarion-aceleradev-react-modulo-5/static/js/2.a18891e2.chunk.js.LICENSE.txt"
+    "revision": "0a572ad323474bafc6a871b6336141bd",
+    "url": "/codenarion-aceleradev-react-modulo-5/static/js/2.75698720.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd2e2817b0881410d8a2",
-    "url": "/codenarion-aceleradev-react-modulo-5/static/js/main.5e2dd15b.chunk.js"
+    "revision": "0618177dead52bb64742",
+    "url": "/codenarion-aceleradev-react-modulo-5/static/js/main.f3bad9ca.chunk.js"
   },
   {
     "revision": "73cab1f5984c6d651235",
