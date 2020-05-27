@@ -1,4 +1,4 @@
-# SPA: App de Contatos - PARTE 1
+# SPA: App de Contatos
 
 ## Objetivo:
 O desafio é desenvolver um *SPA (Single Page Application)* de uma lista de contatos em **React** com as seguintes funcionalidades:
@@ -6,6 +6,10 @@ O desafio é desenvolver um *SPA (Single Page Application)* de uma lista de cont
 -  Consumir os dados de contato através de uma API Rest, usando a *Fetch API* do Javascript.
 -  Busca de um contato aplicando filtro em **tempo real**.
 -  Aplicar filtros de ordenação por *Nome*, *País*, *Empresa*, *Departamento* e *Data de Admissão*.
+
+### Demo em produção:
+
+URL: *https://regisbr13.github.io/codenarion-aceleradev-react-modulo-5/*
 
 ### API de Contatos:
 
